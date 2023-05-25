@@ -10,11 +10,11 @@ Home folder structure:
 ~/programs
 
 Applications:
-[Base Packages]
+-Base Packages
 * i3
 
-[Terminal Packages]
+-Terminal Packages
 *
 
-[Programs and Applications Packages]
+-Programs and Applications Packages
 *
