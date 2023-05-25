@@ -1,7 +1,7 @@
 # arch-linux-setup
 Sets up a Xorg with i3wm, and other usefull applications.
 
-Home folder structure:
+Home folder structure
 ~/downloads
 ~/images
 ~/music
@@ -9,7 +9,7 @@ Home folder structure:
 ~/code
 ~/programs
 
-Applications:
+Applications
 -Base Packages
 * i3
 
