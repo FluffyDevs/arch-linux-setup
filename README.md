@@ -1,2 +1,2 @@
 # arch-linux-setup
-Things used to setup arch linux how i like it.
+Sets up a Xorg with i3wm, and other usefull applications.
