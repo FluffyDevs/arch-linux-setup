@@ -27,14 +27,14 @@ echo "[STEP] Base Packages Finished"
 echo
 echo "[STEP] Terminal Packages"
 echo
-sudo pacman -S man-db neofetch conky pulsemixer
+sudo pacman -S man-db neofetch conky pulsemixer python base-devel
 echo
 echo "[STEP] Terminal Packages Finished"
 
 echo
 echo "[STEP] Programs and Applications Packages"
 echo 
-sudo pacman -S firefox vlc audacity discord arduino libreoffice-still inkscape geogebra
+sudo pacman -S firefox vlc audacity discord arduino libreoffice-still inkscape geogebra virtualbox virtualbox-host-modules-arch kcalc gnome-calculator obs-studio screengrab
 echo
 echo "[STEP] Programs and Applications Packages Finished"
 
@@ -63,3 +63,13 @@ echo "Not installed:"
 echo "	Blender"
 echo "	Antares"
 echo "	Aseprite"
+echo "	Steam"
+echo "	Minecraft"
+echo "	Balena Etcher"
+echo "  Wine"
+echo "	Camera Setup"
+echo "	Clock application"
+echo "	Password Manager"
+echo "	Printer Config"
+echo "	Battery Notifier"
+echo "	HDMI out"

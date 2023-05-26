@@ -20,10 +20,52 @@ Home folder structure:
 ~/programs
 
 Base Packages:
-* i3
+* xorg-server
+* xorg-xinit
+* xorg-apps
+* i3 
+* dmenu 
+* pulseaudio 
+* feh 
+* pcmanfm
+* kitty 
+* xrandr
+* polybar
 
 Terminal Packages:
-*
+* man-db
+* neofetch
+* conky
+* pulsemixer
+* python
+* base-devel
 
 Programs and Applications Packages:
-*
+* firefox 
+* vlc
+* audacity
+* discord
+* arduino
+* libreoffice-still
+* inkscape
+* geogebra
+* virtualbox
+* kcalc 
+* gnome-calculator
+* obs-studio
+* screengrab
+
+Not installed:
+* Blender
+* Antares
+* Aseprite
+* Steam
+* Minecraft
+* Balena Etcher
+* Wine
+* Camera Setup
+* Clock application
+* Password Manager
+* Printer Config
+* Battery Notifier
+* HDMI out
