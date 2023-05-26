@@ -1,5 +1,5 @@
 # arch-linux-setup
-###Sets up a Xorg with i3wm, and other usefull applications.
+Sets up a Xorg with i3wm, and other usefull applications.
 
 Info:
 "setup.sh" is the install script.
