@@ -2,7 +2,10 @@
 Sets up a Xorg with i3wm, and other usefull applications.
 
 Info:
-"setup.sh" is the install script.
+"setup.sh" is the install script. AND DOES NOT WORK PROPPERLY, INSTALL MANUALY USING "package-list"
+
+Make it executable:
+chmod +x $HOME/.config/polybar/launch.sh
 
 Locations:
 bash/issue			/etc/

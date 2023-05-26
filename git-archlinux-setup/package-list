@@ -1,0 +1,51 @@
+IN AUR:
+* xorg-server
+* xorg-xinit
+* xorg-apps
+* i3 
+* dmenu 
+* pulseaudio 
+* feh 
+* pcmanfm
+* kitty 
+* xrandr
+* polybar
+* man-db
+* neofetch
+* conky
+* pulsemixer
+* python
+* base-devel
+* firefox (windscribe, ublock-origin) 
+* vlc
+* audacity
+* discord
+* arduino
+* libreoffice-still
+* inkscape
+* geogebra
+* virtualbox
+* virtualbox-host-modules-arch
+* kcalc 
+* gnome-calculator
+* obs-studio
+* screengrab
+* arch-wiki-docs (HTML)
+* arch-wiki-lite (Terminal)
+* featherpad
+
+NOT IN AUR:
+* Blender
+* Antares
+* Aseprite
+* Steam
+* Minecraft
+* Balena Etcher
+* Wine
+* Camera Setup
+* Clock application
+* Password Manager
+* Printer Config
+* Battery Notifier
+* HDMI out
+* tor-browser
