@@ -199,6 +199,9 @@ exec setxkbmap -layout no
 #Launch Polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
+#Backround Image
+exec_always feh --bg-fill $HOME/images/backgrounds/clouds.jpg
+
 
 #Shortcuts
 bindsym $mod+b exec firefox
@@ -209,4 +212,4 @@ bindsym $mod+l exec i3lock
 gaps inner 5 px 
 
 #Gap around windows outside
-gaps outer 10 px
+gaps outer 5 px
