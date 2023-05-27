@@ -32,10 +32,12 @@ IN AUR:
 * screengrab
 * arch-wiki-docs (HTML)
 * arch-wiki-lite (Terminal)
+* wikiman
 * featherpad
+* unzip
 
 NOT IN AUR:
-* Blender
+* blender (In AUR, but can give problems)
 * Antares
 * Aseprite
 * Steam

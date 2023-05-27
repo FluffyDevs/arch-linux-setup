@@ -14,6 +14,8 @@ i3/config			~/.config/i3/
 polybar/config.ini	~/.config/polybar/
 polybar/launch.sh	~/.config/polybar/
 
+$HOME/.fonts #Fonts Directory 
+
 Home folder structure:
 ~/downloads
 ~/images
