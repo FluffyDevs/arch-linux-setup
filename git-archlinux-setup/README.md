@@ -1,76 +1,40 @@
 # arch-linux-setup
-Sets up a Xorg with i3wm, and other usefull applications.
 
 Info:
 "setup.sh" is the install script. AND DOES NOT WORK PROPPERLY, INSTALL MANUALY USING "package-list"
 
+TODO:
+* Configure polybar.
+* Add notifications. (Battery, Wifi, Bluetooh)
+* Setup Bluetooh
+* Configure Terminal
+
 Make it executable:
 chmod +x $HOME/.config/polybar/launch.sh
 
-Locations:
+Config File Locations:
+[GIT]				[Linux]
 bash/issue			/etc/
 bash/motd			/etc/
 i3/config			~/.config/i3/
-polybar/config.ini	~/.config/polybar/
-polybar/launch.sh	~/.config/polybar/
+polybar/config.ini		~/.config/polybar/
+polybar/launch.sh		~/.config/polybar/
+dunst/dunstrc			~/.config/dunst/
 
-$HOME/.fonts #Fonts Directory 
-
-Home folder structure:
+Folder structure: (Folders to make)
 ~/downloads
 ~/images
+~/videos
 ~/music
 ~/documents
 ~/code
 ~/programs
+~/savedata
 
-Base Packages:
-* xorg-server
-* xorg-xinit
-* xorg-apps
-* i3 
-* dmenu 
-* pulseaudio 
-* feh 
-* pcmanfm
-* kitty 
-* xrandr
-* polybar
+/media/dev0
+/media/dev1
+/media/dev2
+/media/dev3
+/media/dev4
+/media/dev5
 
-Terminal Packages:
-* man-db
-* neofetch
-* conky
-* pulsemixer
-* python
-* base-devel
-
-Programs and Applications Packages:
-* firefox 
-* vlc
-* audacity
-* discord
-* arduino
-* libreoffice-still
-* inkscape
-* geogebra
-* virtualbox
-* kcalc 
-* gnome-calculator
-* obs-studio
-* screengrab
-
-Not installed:
-* Blender
-* Antares
-* Aseprite
-* Steam
-* Minecraft
-* Balena Etcher
-* Wine
-* Camera Setup
-* Clock application
-* Password Manager
-* Printer Config
-* Battery Notifier
-* HDMI out

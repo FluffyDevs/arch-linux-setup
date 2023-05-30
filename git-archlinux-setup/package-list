@@ -1,9 +1,12 @@
+ICON THEME:
+* Adwaita
+
 IN AUR:
 * xorg-server
 * xorg-xinit
 * xorg-apps
 * i3 
-* dmenu 
+* rofi
 * pulseaudio 
 * feh 
 * pcmanfm
@@ -35,12 +38,13 @@ IN AUR:
 * wikiman
 * featherpad
 * unzip
+* dunst (Notification Manager)
 
 NOT IN AUR:
 * blender (In AUR, but can give problems)
 * Antares
-* Aseprite
-* Steam
+* Aseprite (In Steam)
+* Steam (In AUR, but can give problems, needs multilib enabled)
 * Minecraft
 * Balena Etcher
 * Wine
