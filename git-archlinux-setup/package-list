@@ -52,6 +52,7 @@ SYSTEM IN AUR:
 * linux-headers (installed with pacstrap)
 * linux-firmware (installed with pacstrap)
 * amd-ucode (installed with pacstrap) (Or Intel)
+* base-devel (installed with pacstrap)
 
 * grub (installed in chroot)
 * efibootmgr (installed in chroot)
