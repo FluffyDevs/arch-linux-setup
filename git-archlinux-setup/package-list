@@ -53,6 +53,12 @@ SYSTEM IN AUR:
 * linux-firmware (installed with pacstrap)
 * amd-ucode (installed with pacstrap) (Or Intel)
 
+* grub (installed in chroot)
+* efibootmgr (installed in chroot) (if you have EFI)
+* dosfstools (installed in chroot)
+* mtools (installed in chroot)
+* os-prober (installed in chroot) #To find Windows f.eks
+
 
 NOT IN AUR:
 * blender (In AUR, but can give problems)
