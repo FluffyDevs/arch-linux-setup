@@ -7,14 +7,14 @@ IN AUR:
 * xorg-apps
 * i3 
 * rofi
-* pulseaudio 
+* pulseaudio (installed with pacstrap)
 * feh 
 * pcmanfm
 * kitty 
 * xrandr
 * polybar
-* man-db
-* neofetch
+* man-db (installed with pacstrap)
+* neofetch (installed with pacstrap)
 * conky
 * pulsemixer
 * python
@@ -39,6 +39,20 @@ IN AUR:
 * featherpad
 * unzip
 * dunst (Notification Manager)
+* Nano (installed with pacstrap)
+* dhcpcd (installed with pacstrap)
+* less (installed with pacstrap)
+* networkmanager (installed with pacstrap)
+* sudo (installed with pacstrap)
+* git (installed with pacstrap)
+
+SYSTEM IN AUR:
+* base (installed with pacstrap)
+* linux (installed with pacstrap)
+* linux-headers (installed with pacstrap)
+* linux-firmware (installed with pacstrap)
+* amd-ucode (installed with pacstrap) (Or Intel)
+
 
 NOT IN AUR:
 * blender (In AUR, but can give problems)
