@@ -54,7 +54,7 @@ SYSTEM IN AUR:
 * amd-ucode (installed with pacstrap) (Or Intel)
 
 * grub (installed in chroot)
-* efibootmgr (installed in chroot) (if you have EFI)
+* efibootmgr (installed in chroot)
 * dosfstools (installed in chroot)
 * mtools (installed in chroot)
 * os-prober (installed in chroot) #To find Windows f.eks
