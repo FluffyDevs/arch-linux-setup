@@ -75,7 +75,7 @@ bindsym $mod+b exec firefox
 
 
 ## start rofi (a program launcher)
-bindsym $mod+d exec rofi -show drun
+bindsym $mod+d exec rofi -show drun -show-icons -theme "/usr/share/rofi/themes/Adapta-Nokto.rasi"
 
 
 
